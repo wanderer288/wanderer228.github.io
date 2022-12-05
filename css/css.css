@@ -1,0 +1,272 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.header-up{
+    position: absolute;
+    width: 100%;
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #ffffff;
+    margin-top: -90px;
+}
+
+.up{
+    position: absolute;
+    width: 131px;
+    height: 30px;
+
+}
+
+.ttt{
+    position: absolute;
+    width: 528px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    margin-left: 481px;
+
+}
+
+.ttt2{
+    margin-left: 70px;
+}
+
+.ttt3{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.ret{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #FF553C;
+    margin-left:1380px ;
+}
+
+.lp{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+}
+
+.header-down{
+    position: relative;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: #51637E;
+    background-image: url(./ing/fon.png);
+    background-size: cover;
+    background-position: center;
+    align-content: center;
+    margin-top: 90px;
+}
+
+
+
+.container{
+    position: absolute;
+    width: 488px;
+    height: 465px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+
+.figna{
+    position: absolute;
+    width: 406px;
+    height: 46px;
+    margin-bottom: 380px;
+    background: #cfeaef;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.l{
+    margin-bottom: 25px;
+}
+
+.kv{
+    margin-left: 10px;
+    position: absolute;
+    width: 93px;
+    height: 26px;
+    
+    background: #FFFFFF;
+}
+
+.new{
+    position: absolute;
+    width: 70px;
+    height: 20px;
+    margin-left: 25px;
+    margin-top: 9px;
+}
+
+.tt{
+    position: absolute;
+    width: 218px;
+    height: 18px;
+    margin-left: 128px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    
+    letter-spacing: 0.5px;
+    
+    color: #4E9AA9;
+}
+
+.st{
+    position: absolute;
+    width: 8.1px;
+    height: 10px;
+    margin-left: 376px;
+}
+
+.header-title{
+    position: absolute;
+    width: 488px;
+    height: 285px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 85px;
+    line-height: 95px;
+
+    letter-spacing: -2px;
+
+    color: #121212;
+}
+
+.text{
+    position: absolute;
+    width: 443px;
+    height: 84px;
+    margin-bottom: -20px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+
+    letter-spacing: 0.5px;
+
+    color: #121212;
+
+}
+
+.latest{
+    position: absolute;
+    width: 100%;
+    height: 575px;
+    margin-top: 85px;
+    margin-left: 140px;
+}
+
+.latest-in{
+    position: absolute;
+    width: 1160px;
+    height: 416px;    
+}
+
+.lat{
+    position: absolute;
+width: 74px;
+height: 32px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 32px;
+margin-top: 0px;
+
+color: #0F1935;
+
+}
+
+.card-con{
+    position: absolute;
+    width: 1160px;
+    height: 340.15px;
+    display: flex;
+    margin-top: 70px;
+}
+
+.card{
+    position: absolute;
+    width: 360px;
+    height: 340.15px;
+
+}
+
+.card2{
+    position: absolute;
+    width: 360px;
+    height: 340.15px;
+    margin-left: 400px;
+
+}
+
+.card3{
+    position: absolute;
+    width: 360px;
+    height: 340.15px;
+    margin-left: 800px;
+}
+
+.text-img{
+
+    width: 153px;
+    height: 11.6px;
+    margin-top: 20px;
+    margin-bottom: -8px;
+
+}
+
+.text-img3{
+    width: 160px;
+    height: 17px;
+    margin-top: 20px;
+    margin-bottom: -15px;
+}
+
+.tat{
+    position: absolute;
+    width: 320px;
+    height: 57.98px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #121212;
+}
